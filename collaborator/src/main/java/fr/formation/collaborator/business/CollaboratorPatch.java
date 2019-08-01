@@ -6,6 +6,7 @@ import javax.validation.constraints.Future;
 
 import org.springframework.lang.NonNull;
 
+//test
 public class CollaboratorPatch {
 
     @Future
