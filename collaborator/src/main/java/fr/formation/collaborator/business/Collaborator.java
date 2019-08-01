@@ -9,6 +9,7 @@ import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
 
 // test n°2
+//fzefzfezfzz
 public class Collaborator {
 
     private Long id;
