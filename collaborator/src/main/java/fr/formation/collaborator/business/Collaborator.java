@@ -8,7 +8,7 @@ import javax.validation.constraints.PastOrPresent;
 import javax.validation.constraints.Positive;
 import javax.validation.constraints.Size;
 
-// test
+// test n°2
 public class Collaborator {
 
     private Long id;
