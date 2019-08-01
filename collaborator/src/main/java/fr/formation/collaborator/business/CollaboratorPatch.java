@@ -7,6 +7,7 @@ import javax.validation.constraints.Future;
 import org.springframework.lang.NonNull;
 
 //test
+//Tu dois pull avant de push Catherine !!!!!!
 public class CollaboratorPatch {
 
     @Future
