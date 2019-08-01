@@ -8,6 +8,7 @@ import org.springframework.lang.NonNull;
 
 // Test Tomas pull
 //test
+//Tu dois pull avant de push Catherine !!!!!!
 public class CollaboratorPatch {
 
     @Future
